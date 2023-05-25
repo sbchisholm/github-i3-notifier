@@ -3,6 +3,9 @@ GitHub Notifications in i3
 
 Get GitHub notifications on your i3 status bar.
 
+![image](https://github.com/sbchisholm/github-i3-notifier/assets/1753278/f325a4e1-6f4a-4088-a04b-eebb868c1708)
+
+
 How-to
 ------
 
